@@ -1,3 +1,4 @@
+### don't stop thinking!
 - 👋 Hi, I’m @Isshiki-Aimo
 - ![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/3389?logoColor=dark%26project=%26recentMS=0%26showProject=true)
 - Aimo always sad.
